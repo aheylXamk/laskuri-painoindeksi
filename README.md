@@ -1,0 +1,2 @@
+# laskuri-painoindeksi
+Typescript & Angular
